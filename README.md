@@ -1,4 +1,4 @@
-## ߖ䠙 Save me. 🖤
+## ߖ䠙 Save me. ❤
 
 <p align="center">
   <table>
