@@ -1,12 +1,12 @@
 <div align=center>
 
-[![](https://zullls.ru/assets/images/business%20cards.png)][website]
+[![](https://zulls.ru/assets/images/business%20cards.png)][website]
 
 ![](https://enb1p2fwazcr7bh.m.pipedream.net)
   
 </div>
 
-[website]: https://zullls.ru
+[website]: https://zulls.ru
 
 <p align=center>
   <table>
