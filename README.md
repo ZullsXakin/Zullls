@@ -18,6 +18,6 @@
 </table>
 </p>
 
-<!-- <a href="https://discord.gg/PXa7SwnY5W">
+<a href="https://discord.gg/PXa7SwnY5W">
   <img src="http://invidget.switchblade.xyz" />
-</a> -->
+</a>
