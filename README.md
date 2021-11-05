@@ -3,7 +3,7 @@
   <!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ZullsXakin&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117">
   <img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
-  <img width="510px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZullsXakin&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
+  <img width="484px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZullsXakin&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
 
   Hi, my name is Arthur ([My site❤️](https://zulls.ru)) and I am a 16 year old TypeScript developer. I like music, coding, and playing video games!
 
